@@ -6,7 +6,7 @@ var website_name = "MAYAN TOPUP";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/mayantopup";
 
 // =======================================================
 // TELEGRAM GROUP LINK
