@@ -45,7 +45,7 @@ const DEFAULT_PACKAGES = [
 
 const DEFAULT_BANNERS = ['default:Banner 1.jpg', 'default:Banner 2.jpg', 'default:Banner 3.jpg'];
 const DEFAULT_QUICK = [
-  { label: 'Telegram', url: '' },
+  { label: 'Telegram', url: 'https://t.me/mayantopup' },
   { label: 'Join Group', url: '' },
   { label: 'YouTube', url: '' }
 ];
